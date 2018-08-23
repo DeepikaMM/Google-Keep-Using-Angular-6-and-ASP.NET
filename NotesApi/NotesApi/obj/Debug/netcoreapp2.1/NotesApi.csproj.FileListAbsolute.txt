@@ -1,0 +1,14 @@
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\bin\Debug\netcoreapp2.1\NotesApi.deps.json
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\bin\Debug\netcoreapp2.1\NotesApi.runtimeconfig.json
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\bin\Debug\netcoreapp2.1\NotesApi.runtimeconfig.dev.json
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\bin\Debug\netcoreapp2.1\NotesApi.dll
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\obj\Debug\netcoreapp2.1\NotesApi.csprojAssemblyReference.cache
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\obj\Debug\netcoreapp2.1\NotesApi.csproj.CoreCompileInputs.cache
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\obj\Debug\netcoreapp2.1\NotesApi.RazorAssemblyInfo.cache
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\obj\Debug\netcoreapp2.1\NotesApi.RazorAssemblyInfo.cs
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\obj\Debug\netcoreapp2.1\NotesApi.AssemblyInfoInputs.cache
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\obj\Debug\netcoreapp2.1\NotesApi.AssemblyInfo.cs
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\obj\Debug\netcoreapp2.1\NotesApi.RazorTargetAssemblyInfo.cache
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\bin\Debug\netcoreapp2.1\NotesApi.pdb
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\obj\Debug\netcoreapp2.1\NotesApi.dll
+F:\WorkSpace\API for Angular\NotesApi\NotesApi\obj\Debug\netcoreapp2.1\NotesApi.pdb
